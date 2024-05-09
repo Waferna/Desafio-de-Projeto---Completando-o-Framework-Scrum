@@ -1,0 +1,41 @@
+Desafio de Projeto: Completando o Framework Scrum
+
+No universo da gestão ágil de projetos, o Scrum se destaca como um dos frameworks mais populares e eficazes. Seus pilares e valores fundamentais fornecem uma base sólida para equipes de desenvolvimento entregarem valor de forma iterativa e incremental. Neste desafio, assumiremos o protagonismo para completar o Framework Scrum, fortalecendo nosso entendimento dos princípios essenciais e dos componentes-chave deste método.
+
+Pilares e Valores do Scrum:
+
+Transparência: A transparência é o alicerce do Scrum. Ela envolve a comunicação clara e aberta entre todas as partes interessadas, garantindo que todos tenham acesso às informações relevantes sobre o projeto.
+
+Inspeção: A inspeção refere-se à avaliação contínua do progresso do trabalho e do produto resultante. Isso permite identificar desvios, problemas ou oportunidades de melhoria de forma rápida e eficaz.
+
+Adaptação: A adaptação é a capacidade de responder às mudanças de forma flexível e ágil. Com base nas informações obtidas pela inspeção, as equipes podem ajustar seus planos e processos para melhor atender às necessidades do projeto e do cliente.
+
+Comprometimento: O comprometimento envolve a dedicação e o empenho das equipes em alcançar os objetivos do projeto. Todos os membros da equipe são responsáveis por cumprir suas obrigações e trabalhar juntos para atingir os resultados desejados.
+
+Foco na entrega de valor: O Scrum valoriza a entrega contínua de incrementos de produto que agreguem valor ao cliente. Isso significa priorizar as atividades que têm o maior impacto no cliente e no sucesso do projeto.
+
+Responsabilidades no Scrum:
+
+Product Owner (PO): Responsável por representar os interesses do cliente e definir as necessidades e prioridades do produto. O PO é responsável por manter o backlog do produto atualizado e garantir que a equipe esteja trabalhando nas funcionalidades mais importantes para o sucesso do projeto.
+
+Scrum Master: O Scrum Master é o guardião do processo Scrum. Ele ajuda a equipe a entender e adotar os princípios e práticas do Scrum, remove obstáculos que possam impedir o progresso do trabalho e facilita a colaboração e a comunicação dentro da equipe.
+
+Equipe de Desenvolvimento: A equipe de desenvolvimento é responsável por transformar os itens do backlog do produto em incrementos de produto funcionais e de alta qualidade. Eles são auto-organizados e multifuncionais, colaborando de forma eficaz para alcançar os objetivos do projeto.
+
+Eventos no Scrum:
+
+Sprint Planning (Planejamento da Sprint): Evento no início de cada sprint onde a equipe seleciona os itens do backlog do produto a serem trabalhados durante a sprint e cria um plano detalhado para alcançar esses objetivos.
+
+Daily Scrum (Scrum Diário): Reunião diária de curta duração, realizada pela equipe de desenvolvimento, para sincronizar atividades e discutir progresso, desafios e planos para o dia seguinte.
+
+Sprint Review (Revisão da Sprint): Evento realizado ao final de cada sprint, onde a equipe demonstra o trabalho realizado e recebe feedback do Product Owner e de outras partes interessadas.
+
+Sprint Retrospective (Retrospectiva da Sprint): Reunião realizada ao final de cada sprint, onde a equipe revisa o processo de trabalho, identifica pontos fortes e áreas de melhoria, e define ações para aumentar a eficácia e a eficiência.
+
+Artefatos no Scrum:
+
+Backlog do Produto: Lista prioritária de todas as funcionalidades, requisitos, melhorias e correções necessárias para o produto. É de responsabilidade do Product Owner gerenciá-lo e mantê-lo atualizado.
+
+Backlog da Sprint: Subconjunto do backlog do produto selecionado pela equipe de desenvolvimento para ser trabalhado durante a sprint atual. Este backlog é refinado durante o Sprint Planning e é o foco do trabalho da equipe durante a sprint.
+
+Incremento de Produto: O incremento é a versão potencialmente entregável do produto que é produzida ao final de cada sprint. Ele deve ser completo, testado e funcional, representando uma adição valiosa e tangível ao produto.
